@@ -17,7 +17,7 @@ Profile on BIT - [Michael Hofmockel](http://www.biology-it.iastate.edu/people/mi
 
 Research IT on BIT - [ISU BIT RIT](http://www.biology-it.iastate.edu/research-it)
 
-The default parameters are wrong - [Trinity Run 4nov14](https://github.com/ResearchIT/presentations/blob/master/biocrunch_pipeline_trace.pdf?raw=true)
+The default parameters are wrong - [Trinity Run 4nov14](https://github.com/ResearchIT/presentations/blob/master/biocrunch_pipeline_trace.pdf)
 
 We would like to collaborate with researchers starting with the grant writing process with the goal of recommending the best technology solutions and budgets
 
