@@ -1,8 +1,11 @@
 The Defaults Parameters are wrong.
-=
+=================================
+
 Big Data Webinar Series - 4nov14
--
+--------------------------------
+
 Michael Hofmockel - Iowa State University
+-----------------------------------------
 
 Michael Hofmockel - [Google search of "michael hofmockel iowa state university"](https://www.google.com/search?q=michael+hofmockel+iowa+state+university)
 
