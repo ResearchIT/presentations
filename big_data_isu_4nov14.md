@@ -7,6 +7,7 @@ Research IT can help you with that!
 Big Data Webinar Series - 4nov14
 
 Michael Hofmockel - Iowa State University
+_________________________________________
 
 Michael Hofmockel - [Google search of "michael hofmockel iowa state university"](https://www.google.com/search?q=michael+hofmockel+iowa+state+university)
 
